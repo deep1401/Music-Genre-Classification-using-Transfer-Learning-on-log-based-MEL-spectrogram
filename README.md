@@ -6,7 +6,7 @@ Deep Learning, a branch of Machine Learning is a rapidly expanding field in the 
 
 ```bibtex
 @InProceedings{music,
-  author       = "Mehta,Jash and Gandhi,Deep and Thakur,Govind and Kanani,Pratik",
+  author       = "{Jash Mehta} and {Deep Gandhi} and {Govind Thakur} and {Pratik Kanani}",
   title        = "Music Genre Classification using Transfer Learning on log-based MEL spectrogram",
   booktitle    = "Proceedings of 5th International Conference on
 Computing Methodologies and Communication (Scopus Indexed)",
