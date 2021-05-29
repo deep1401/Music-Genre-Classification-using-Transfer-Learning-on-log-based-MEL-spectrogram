@@ -5,13 +5,12 @@ Deep Learning, a branch of Machine Learning is a rapidly expanding field in the 
 ### If you use this work anywhere, please cite:
 
 ```bibtex
-@InProceedings{musicdl2021,
-  author       = "{Jash Mehta} and {Deep Gandhi} and {Govind Thakur} and {Pratik Kanani}",
-  title        = "Music Genre Classification using Transfer Learning on log-based MEL spectrogram",
-  booktitle    = "Proceedings of 5th International Conference on
-Computing Methodologies and Communication (Scopus Indexed)",
-  year         = "2021",
-  pages        = "1109--1115",
-  publisher    = "IEEE",
+@inproceedings{mehta2021music,
+  title={Music Genre Classification using Transfer Learning on log-based MEL Spectrogram},
+  author={Mehta, Jash and Gandhi, Deep and Thakur, Govind and Kanani, Pratik},
+  booktitle={2021 5th International Conference on Computing Methodologies and Communication (ICCMC)},
+  pages={1101--1107},
+  year={2021},
+  organization={IEEE}
 }
 ```
